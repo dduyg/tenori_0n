@@ -1,21 +1,16 @@
-* {
-  box-sizing: border-box;
-}
-
-[hidden] {
-  display: none !important;
-}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
 
 body {
   font-family: monospace;
   margin: 1em;
   text-align: center;
-  --pink: #E61E8C;
-  --blue: #4DEEEA;
+  --pink: #FF77FF;
+  --blue: #8BE9FD;
   --purple: #2A298B;
-  --yellow: #FFED5E;
-  --green: #74EE16;
-  
+  --yellow: #F1FA89;
+  --green: #7AFEC7;
+ 
   font-size: 14px;
   color: var(--purple);
   position: relative;
