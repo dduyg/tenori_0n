@@ -5,12 +5,12 @@ body {
   font-family: monospace;
   margin: 1em;
   text-align: center;
-  --pink: #FF77FF;
-  --blue: #8BE9FD;
+  --pink: #FF007C;
+  --blue: #00FFF7;
   --purple: #2A298B;
-  --yellow: #F1FA89;
-  --green: #7AFEC7;
- 
+  --yellow: #FFD500;
+  --green: #00FF6A;
+
   font-size: 14px;
   color: var(--purple);
   position: relative;
